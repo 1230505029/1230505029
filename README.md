@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns:happy
 - ⚡ Fun fact:live 
 -->
+Hello, I am 19 years old and I am studying software engineering. I am originally from Trabzon.
